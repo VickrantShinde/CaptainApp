@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
     "appIdentifier": "kbl.captain.com",
-    "appName": "KPMG",
+    "appName": "KBL Captain",
     "bundleName": {
         "main": "KBLCaptain",
         "dev": "KBLCaptainDev"
